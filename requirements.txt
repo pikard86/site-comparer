@@ -1,1 +1,4 @@
-﻿selenium
+﻿asyncio
+crawlee
+crawlee[playwright]
+crawlee[beautifulsoup]
